@@ -1,3 +1,5 @@
-# Sound Demo
+# Game Boy OS
 
-Demonstration ROM for testing the system's sound capabilities.
+Currently a collection of basic I/O functions for the Game Boy, eventually
+working towards a bare-bones kernel.
+
